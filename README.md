@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/security-baseline/actions/workflows/python-checks.yml/badge.svg)
+
 # Security Baseline
 
 Review local configuration snapshots for weak settings.
